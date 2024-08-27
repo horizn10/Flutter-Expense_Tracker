@@ -1,6 +1,10 @@
 # expense_tracker
 
 A new Flutter project.
+This is the third project I have uploaded in github 
+This application is made in flutter using dart language, it contains expense tacker interface where we can add our expenses, categorize them, 
+add, title, amount, type and date and then save it.
+It also contains chart feature which shows a great user interface and easy to use.
 
 ## Getting Started
 
